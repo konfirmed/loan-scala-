@@ -1,0 +1,5 @@
+admin adminpassword
+user1 user1password
+user2 user2password
+manager managerpassword
+accountant accountantpassword
